@@ -1,51 +1,501 @@
 title,score,comments
-GameStop makes $55.5B takeover offer for eBay,187,122
-ASML's Best Selling Product Isn't What You Think It Is,45,22
-Trademark violation: Fake Notepad++ for Mac,234,98
-Using “underdrawings” for accurate text and numbers,271,92
-Texico: Learn the principles of programming without even touching a computer,75,4
-BYOMesh – New LoRa mesh radio offers 100x the bandwidth,399,131
-DeepClaude – Claude Code agent loop with DeepSeek V4 Pro,517,207
-World's biggest RC A380 [video],27,3
-Discovering hard disk physical geometry through microbenchmarking (2019),106,5
-A treasure trove of fossils rewrites the story of early life,46,7
-The Road to a Billion-Token Context,18,24
-Southwest Headquarters Tour,268,81
-Let's Buy Spirit Air,393,360
-Why are neural networks and cryptographic ciphers so similar? (2025),9,0
-The 'Hidden' Costs of Great Abstractions,184,83
-US–Indian space mission maps extreme subsidence in Mexico City,162,63
-"Fun with polynomials and linear algebra; or, slight abstract nonsense",25,0
-A desktop made for one,368,201
-OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors,415,367
-Bad Connection: Global telecom exploitation by covert surveillance actors,161,14
-Introduction to Atom,103,37
-Humanoid Robot Actuators,144,68
-K3sup – bootstrap K3s over SSH in < 60s,63,29
-"New statue in London, attributed to Banksy, of a suited man, blinded by a flag",433,407
-Mercedes-Benz commits to bringing back physical buttons,742,419
-Text-to-CAD,129,35
-Tar Files Created on macOS Display Errors When Extracting on Linux (2024),116,82
-Over 8M Thermos jars and bottles recalled after 3 people lost vision,68,55
-I recreated the Apple Lisa computer inside an FPGA [video],107,27
-Why TUIs are back,356,358
-The text mode lie: why modern TUIs are a nightmare for accessibility,245,103
-Show HN: Ableton Live MCP,87,56
-Security through obscurity is not bad,169,188
-What is Z-Angle Memory and why is Intel developing it?,118,38
-Show HN: Apple's SHARP running in the browser via ONNX runtime web,172,43
-I built my own hair electrolysis machine,236,61
-"Roger Sweet, Creator of the He-Man Action Figure, Dies at 91",52,9
-Group averages obscure how an individual's brain controls behavior: study,120,38
-Denuvo has been cracked in all single-player games it previously protected,363,213
-Make your own microforest (2025),98,18
-United flight collides with truck and pole as it lands at Newark,24,9
-Debunking the CIA's “magic” heartbeat sensor [video],44,44
-Metal Gear Solid 2's source code has been leaked on 4chan,282,128
-Alert-driven monitoring,117,43
-Modern jet engine turbines: each blade a single crystal (2015),62,26
-DeepSeek V4 – almost on the frontier,639,378
-"Infrasound waves stop kitchen fires, but can they replace sprinklers?",53,32
-How far behind is each major Chromium browser?,182,60
-Windows quality update: Progress we've made since March,165,498
-LLMs Are Not a Higher Level of Abstraction,128,123
+Removable batteries in smartphones will be mandatory in the EU starting in 2027,170,138
+Redis array: short story of a long development process,70,16
+GitHub Is Down,84,28
+Talking to 35 Strangers at the Gym,562,274
+How Monero's proof of work works,71,41
+GameStop makes $55.5B takeover offer for eBay,436,375
+PyInfra 3.8.0 Is Out,136,45
+Newton's law of gravity passes its biggest test,70,35
+Pomiferous: The most extensive apples (pommes) database,8,4
+"I tracked 7,700 UK petrol stations every 10 minutes for 3 months",15,7
+Why are neural networks and cryptographic ciphers so similar? (2025),76,25
+Trademark violation: Fake Notepad++ for Mac,452,181
+Using “underdrawings” for accurate text and numbers,318,115
+Alberta voter list leak is a potential public safety disaster,10,7
+World's biggest RC A380 [video],89,43
+Texico: Learn the principles of programming without even touching a computer,137,10
+BYOMesh – New LoRa mesh radio offers 100x the bandwidth,432,138
+DAG Workflow Engine,13,9
+DeepClaude – Claude Code agent loop with DeepSeek V4 Pro,588,248
+Someone allegedly used a hairdryer to rig Polymarket weather bets,91,44
+Discovering hard disk physical geometry through microbenchmarking (2019),139,6
+A treasure trove of fossils rewrites the story of early life,79,16
+Southwest Headquarters Tour,297,90
+"Fun with polynomials and linear algebra; or, slight abstract nonsense",45,4
+Let's Buy Spirit Air,492,477
+US–Indian space mission maps extreme subsidence in Mexico City,200,71
+OpenAI’s o1 correctly diagnosed 67% of ER patients vs. 50-55% by triage doctors,461,409
+1966 Ford Mustang Converted into a Tesla with Working 'Full Self-Driving',5,0
+Bad Connection: Global telecom exploitation by covert surveillance actors,191,20
+Tar Files Created on macOS Display Errors When Extracting on Linux (2024),136,94
+"New statue in London, attributed to Banksy, of a suited man, blinded by a flag",502,490
+Introduction to Atom,121,57
+Mercedes-Benz commits to bringing back physical buttons,803,472
+A desktop made for one,408,238
+Text-to-CAD,152,41
+I recreated the Apple Lisa computer inside an FPGA [video],121,42
+K3sup – bootstrap K3s over SSH in < 60s,81,38
+Why Almost Everyone Loses–Except a Few Sharks–On Prediction Markets,75,68
+Why TUIs are back,388,401
+Show HN: Ableton Live MCP,101,70
+What is Z-Angle Memory and why is Intel developing it?,122,38
+Show HN: Apple's SHARP running in the browser via ONNX runtime web,176,43
+Security through obscurity is not bad,180,199
+The text mode lie: why modern TUIs are a nightmare for accessibility,264,113
+I built my own hair electrolysis machine,242,65
+The 'Hidden' Costs of Great Abstractions,202,111
+Group averages obscure how an individual's brain controls behavior: study,120,40
+Denuvo has been cracked in all single-player games it previously protected,379,225
+"Roger Sweet, Creator of the He-Man Action Figure, Dies at 91",59,12
+10K+ Satellites in Space,5,1
+Nuclear receptor 4A1 linked to health effects of coffee: study,133,103
+Make your own microforest (2025),106,18
+DeepSeek V4 – almost on the frontier,648,383
+The Road to a Billion-Token Context,45,43
+Modern jet engine turbines: each blade a single crystal (2015),65,27
+Humanoid Robot Actuators,160,73
+Metal Gear Solid 2's source code has been leaked on 4chan,292,134
+Alert-driven monitoring,118,43
+Windows quality update: Progress we've made since March,169,512
+How far behind is each major Chromium browser?,187,63
+"Infrasound waves stop kitchen fires, but can they replace sprinklers?",54,33
+Microsoft Defender wrongly flags DigiCert certs as Trojan:Win32/Cerdigent.A dha,7,0
+LLMs Are Not a Higher Level of Abstraction,149,137
+Supercollider,36,3
+A couple million lines of Haskell: Production engineering at Mercury,422,218
+Code Orange: Fail Small is complete. The result is a stronger Cloudflare network,4,0
+Dav2d,611,178
+MathNet:30k competition math problems for AI mathematical reasoning benchmarking,5,2
+Underwater robot tracks sperm whale conversations in real time,35,7
+This Month in Ladybird – April 2026,494,147
+"Mommy, Are the Inspirational Stories on LinkedIn Real?",10,0
+The agent harness belongs outside the sandbox,173,115
+Clojurists Together – Q2 2026 Open Source Funding Announcement,137,19
+Do_not_track,531,163
+Cordouan Lighthouse,37,5
+CollectWise (YC F24) Is Hiring,1,0
+Unsigned sizes: A five year mistake,113,144
+A more efficient implementation of Shor's algorithm,120,40
+Roblox Loses 12M Daily Users After Age ID Check Rollout,5,2
+Six years perfecting maps on watchOS,437,116
+A physics engine with incremental rollback for multiplayer games,120,40
+Barman – Backup and Recovery Manager for PostgreSQL,181,24
+Brain scans reveal 3 ADHD subtypes,132,115
+Buckets and objects are not enough,16,17
+Porsche will contest Laguna Seca in historic colors of the Apple Computer livery,116,55
+"I'm Peter Roberts, immigration attorney who does work for YC and startups. AMA",205,247
+Automatic Brightness in Plasma,21,5
+Over 8M Thermos jars and bottles recalled after 3 people lost vision,100,90
+Open Design: Use Your Coding Agent as a Design Engine,225,91
+Talking to Transformers,37,3
+Broadcasting GPS on the Local Network,12,0
+Show HN: I built a RISC-V emulator that runs DOOM,45,2
+Why does it take so long to release black fan versions?,761,296
+Dotcl: Common Lisp Implementation on .NET,181,44
+Why are there both TMP and TEMP environment variables? (2015),212,92
+Refusal in Language Models Is Mediated by a Single Direction,115,45
+"Show HN: State of the Art of Coding Models, According to Hacker News Commenters",152,84
+"AI, Intimacy, and the Data You Never Meant to Share",79,6
+"Specsmaxxing – On overcoming AI psychosis, and why I write specs in YAML",272,288
+Neanderthals ran 'fat factories' 125k years ago (2025),286,161
+Agentic Coding Is a Trap,401,320
+Because it doesn't have to,77,13
+United flight collides with truck and pole as it lands at Newark,29,11
+NetHack 5.0.0,512,176
+Little magazines are back,110,40
+"From CVS to Git, thirty years of source control",56,55
+"AI deleted my most tests, and said ""All Tests Pass""",23,9
+"Show HN: Pollen – distributed WASM runtime, no control plane, single binary",129,59
+Show HN: Software Engineer to Novelist: Writing a Book Like Coding,20,3
+Inventions for battery reuse and recycling increase seven-fold in last decade,242,42
+Unverified Evaluations in Dusk's PLONK,35,6
+Embedded Rust or C firmware? Lessons from an industrial microcontroller use case,159,161
+Advice I WISH I'D BEEN Told (1999),7,1
+Show HN: DAC – open-source dashboard as code tool for agents and humans,112,35
+Ghostty is leaving GitHub,3513,1049
+How Kepler built verifiable AI for financial services with Claude,43,23
+Ti-84 Evo,595,478
+Utilyze measures how efficiently your GPU is doing useful work,47,11
+Zed 1.0,2140,687
+When Dawkins met Claude – Could this AI be conscious?,59,408
+Dear Richard Dawkins,27,7
+California to begin ticketing driverless cars that violate traffic laws,322,351
+"How fast is a macOS VM, and how small could it be?",275,101
+Flue is a TypeScript framework for building the next generation of agents,102,56
+Roblox shares plummet 18% as child safety measures weigh on bookings,248,149
+"Dabbling in Erlang, part 2: A minimal introduction (2013)",36,8
+Talkie: a 13B vintage language model from 1930,767,329
+People who are blind from birth never develop schizophrenia,41,30
+New research suggests people can communicate and practice skills while dreaming,457,270
+"Show HN: Parrot – a fun, skeuomorphic audio recorder to hear yourself",14,0
+Using group theory to explore the space of positional encodings for attention,46,0
+Canonical/Ubuntu have been under DDoS,212,71
+Unauthorized macOS port claiming Don Ho as an author?,30,2
+Trump administration cites national security in stalling 165 wind farms,10,1
+Uber wants to turn its drivers into a sensor grid for self-driving companies,140,145
+Running Adobe's 1991 PostScript Interpreter in the Browser,153,36
+Care homes and hotels in Japan shut as expansion strategy unravels,104,53
+Simulating Cells Fighting to the Death,11,1
+Artemis II Photo Timeline,369,28
+Minimal Fab Promoting Organization,8,1
+New mechanical panoramic film camera from Jeff Bridges,223,110
+The USB Situation,156,215
+Comparing the Z80 and 6502 to Their Relatives,24,0
+The gay jailbreak technique (2025),668,255
+Copy Fail,1468,513
+K3k: Kubernetes in Kubernetes,110,52
+Ask.com has closed,468,237
+Can I disable all data collection from my vehicle?,753,348
+Systemd-manager-TUI: A TUI application for managing systemd services,82,24
+Performance of a large language model on the reasoning tasks of a physician,8,1
+Granite 4.1: IBM's 8B Model Matching 32B MoE,326,208
+Understand Anything,166,47
+McDonald's is quietly ending the era of self-serve soda fountains nationwide,5,8
+A network smuggling Starlink tech into Iran to beat internet blackout,182,143
+VS Code inserting 'Co-Authored-by Copilot' into commits regardless of usage,1486,827
+Ask HN: Who wants to be hired? (May 2026),143,393
+CPanel and WHM Authentication Bypass – CVE-2026-41940,157,58
+A Letter from Dijkstra on APL (1982),70,72
+America's Expanding Domestic Surveillance,270,145
+Windows API is Successful Cross-Platform API (2024),105,132
+Show HN: Mljar Studio – local AI data analyst that saves analysis as notebooks,69,16
+"Show HN: WhatCable, a tiny menu bar app for inspecting USB-C cables",554,166
+What can we gain by losing infinity?,125,132
+Reverse Engineering SimTower,258,73
+Full-Text Search with DuckDB,205,33
+Bitmap and tilemap generation from a single example,80,14
+Voice-AI-for-Beginners – A curated learning path for developers,83,4
+Advanced Quantization Algorithm for LLMs,137,17
+Debunking the CIA's “magic” heartbeat sensor [video],49,56
+"For thirty years I programmed with Phish on, every day",220,177
+SFO Gate Explorer,47,39
+Modern C++ Programming: Busato,96,27
+Show HN: AI CAD Harness,96,95
+Breaking up with WordPress after two decades,69,36
+Brush a Bash/POSIX-compatible shell written in the Rust,5,0
+Maryland to ban A.I.-driven price increases in grocery stores,231,238
+Does Postgres Scale?,189,93
+LFM2-24B-A2B: Scaling Up the LFM2 Architecture,60,14
+"Sally McKee, who coined the term ""the memory wall"", has died",124,43
+How Mark Klein told the EFF about Room 641A [book excerpt],704,251
+Show HN: Browser-based light pollution simulator using real photometric data,42,15
+Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library,464,177
+"Kimi K2.6 just beat Claude, GPT-5.5, and Gemini in a coding challenge",369,218
+City Learns Flock Accessed Cameras in Children's Gymnastics Room as a Sales Demo,470,121
+Spotify adds 'Verified' badges to distinguish human artists from AI,285,305
+Show HN: Filling PDF forms with AI using client-side tool calling,56,25
+"To Restore an Island Paradise, Add Fungi",139,43
+Whimsical Animations Course Open House,110,10
+A Primer on Bézier Curves – So What Makes a Bézier Curve?,148,21
+Mozilla's opposition to Chrome's Prompt API,657,231
+Also-RANS: Asymmetric Numeral Systems for Entropy Coding,24,0
+Show HN: Piruetas – A self-hosted diary app I built for my girlfriend,68,48
+How an oil refinery works,536,191
+Lost in translation: The linguistic challenges facing N. Korean defectors (2025),49,43
+Alignment whack-a-mole: Finetuning activates recall of copyrighted books in LLMs,200,165
+Cursor Camp,1209,193
+American Dads Became the Parents Their Fathers Never Were,159,220
+Direct electrochemical black coffee quality appraisal using cyclic voltammetry,62,36
+Benchmarking a Bug Scanner,17,8
+"Softmax, can you derive the Jacobian? And should you care?",131,47
+Every American interacting with chatbot would need to upload a government ID,38,5
+ASU Using AI Tool to Create Courses from Professors' Work Without Their,22,3
+Ask HN: Who is hiring? (May 2026),293,373
+Show HN: Large Scale Article Extract of Newspapers 1730s-1960s,50,20
+Stackless coroutines for gamedev in ~200 lines of C++,23,2
+'Everyone's a Line on a Spreadsheet:' Inside Oracle's Mass Layoffs,8,1
+Largest electric autonomous container ship begins commercial service,36,10
+Stitch together lots of little HTML pages with navigations for interactions,72,56
+Your website is not for you,263,187
+"For Linux kernel vulnerabilities, there is no heads-up to distributions",598,545
+Show HN: Tyche: An experimental distributed trading pipeline in Go Java,3,5
+"My favorite device is a Chromebook, without ChromeOS",10,1
+Mike: open-source legal AI,207,110
+Belgium stops decommissioning nuclear power plants,866,1044
+"Claude Code refuses requests or charges extra if your commits mention ""OpenClaw""",1335,718
+Tesla owner won $10k in court for Tesla's FSD lies. Tesla is still fighting him,279,139
+The smelly baby problem,210,143
+Haskell: Debugging,33,1
+Spain's parliament will act against massive IP blockages by LaLiga,517,226
+How to Build the Future: Demis Hassabis [video],140,73
+Opus 4.7 knows the real Kelsey,471,254
+Noctua releases official 3D CAD models for its cooling fans,497,108
+"Show HN: Hello, World in many different languages",10,11
+AI uses less water than the public thinks,407,386
+Apocalypse Early Warning System,256,122
+Roboticist-Turned-Teacher Built a Life-Size Replica of Eniac,63,14
+Biology is a Burrito: A text- and visual-based journey through a living cell,214,32
+10Gb/s Ethernet: what I did to get it working in my home,232,172
+"Interview with Josh Fisher – Inventing VLIW, Multiflow, Itanium, VLIW's Success [video]",8,0
+An open letter asking NHS England to keep its code open,256,13
+Grok 4.3,400,530
+ASML became the chokepoint for cutting-edge chips,414,248
+Show HN: Security Scanner for Agent Skills and MCP,7,0
+IBM Granite 4.1 family of models,34,3
+xAI Is Reportedly Using Just 11% of Its 550k Nvidia GPUs,25,14
+Lib0xc: A set of C standard library-adjacent APIs for safer systems programming,190,96
+Running official Arch Linux on Arm (not to be confused ArchLinuxARM),12,1
+The Rise of Emotional Surveillance,9,4
+"New copy of earliest poem in English, written 1,3k years ago, discovered in Rome",216,132
+"Show HN: Stop playing my matchstick puzzles, start building your own in seconds",36,33
+GitHub – DOS 1.0: Transcription of Tim Paterson's DOS Printouts,162,14
+You can beat the binary search,357,166
+London to Calcutta by Bus (2022),127,37
+Open source does not imply open community,190,86
+Snowball Earth may hide a far stranger climate cycle than anyone expected,109,63
+I built a Game Boy emulator in F#,345,77
+"Whohas – Command-line utility for cross-distro, cross-repository package search",153,38
+I Got Sick of Remembering Port Numbers,143,156
+Eka’s robotic claw feels like we're approaching a ChatGPT moment,169,237
+Notes on a non-profit indicted for bank fraud,49,28
+Show HN: Site Mogging,68,76
+"Show HN: Rust library for Undo/Redo using deltas, snapshots or commands",23,4
+DataCenter.FM – background noise app featuring the sound of the AI bubble,148,28
+"Show HN: Loopsy, a way for terminals and AI agents on different machines to talk",57,12
+"Jensen says Nvidia now has '0%' share in China, US export policy 'has backfired'",9,0
+A report on burnout in open source software communities (2025) [pdf],132,66
+The Zig project's rationale for their anti-AI contribution policy,678,460
+The Church Rock Uranium Mill Spill,111,6
+Ramp's Sheets AI Exfiltrates Financials,143,50
+First Tesla Semi Rolls Off High-Volume Production Line,66,93
+Testing macOS on the Apple Network Server 2.0 ROMs,4,0
+Monad Tutorials Timeline,104,57
+1.4 GW: battery storage at former Grohnde nuclear power plant,66,88
+A 1960s art school experiment that redefined creativity,104,34
+UAE to leave OPEC,492,692
+GitHub Copilot code review will start consuming GitHub Actions minutes,312,207
+200 Journalists Applaud the Internet Archive's Role in Preserving Public Record,160,8
+FastCGI: 30 years old and still the better protocol for reverse proxies,423,101
+Maladaptive Frugality,223,306
+Recovering files from beyond the grave using PhotoRec,77,20
+Before GitHub,675,233
+An unknown Sega Saturn project has come to light after 29 years,111,2
+Microsoft and OpenAI end their exclusive and revenue-sharing deal,988,845
+I have officially retired from Emacs,274,207
+OpenWarp,206,147
+My Stratum-0 Atomic Clock,88,30
+Soft launch of open-source code platform for government,557,126
+Credit cards are vulnerable to brute force kind attacks,240,189
+Welcome to Hell Developer,73,33
+Where the goblins came from,1064,656
+Some Important Numbers for Developers (2018),6,0
+Joby kicks off NYC electric air taxi demos with historic JFK flight,92,240
+AI Self-preferencing in Algorithmic Hiring: Empirical Evidence and Insights,331,178
+The Hearts of the Super Nintendo (2024),49,5
+Pixel Embeddings Beat Vision Encoders for Unified Understanding and Generation,13,0
+Apple reports second quarter results,96,107
+Ask HN: Is the Job Market Actually Bad?,119,191
+Craig Venter has died,341,85
+Zugzwang,112,75
+Australian police officers can be tracked via taser and body-cam bluetooth,16,2
+Consequences of passing too few register parameters to a C function,97,29
+Fake Notepad++ for Mac,15,3
+VibeVoice: Open-source frontier voice AI,386,181
+I got infected with a crypto-miner via misconfigured qBittorrent,25,6
+Executable installer will stop being released with Python 3.16,39,29
+I accidentally made law enforcement shut down their fake honeypot,157,72
+Learning Pseudorandom Numbers with Transformers,11,3
+I aggregated 28 US Government auction sites into one search,301,105
+Intel Arc Pro B70 Review,199,122
+Simple and correct snapshot isolation,31,4
+Bugs Rust won't catch,675,371
+Urban Birds Are Rising Earlier Because of Traffic Noise (2013),12,2
+How many e's are in strawberry?,15,6
+GitHub Actions is the weakest link,251,92
+AWS stops billing Middle East cloud customers as repairs to war damage drag on,163,77
+"""Parse, don't validate"" through the years with C++",86,44
+I touched a ZX Spectrum for the first time in decades,5,0
+Virtualisation on Apple Silicon Macs is different,124,34
+OpenTrafficMap,386,103
+Integer Overflow Checking Cost,40,15
+Creating a Color Palette from an Image,126,18
+DeepSeek v4,2090,1606
+Follow-up to Carrot disclosure: Forgejo,76,14
+An open-source stethoscope that costs between $2.5 and $5 to produce,305,130
+Can You Find the Comet?,160,110
+Show HN: Perfect Bluetooth MIDI for Windows,105,34
+PixiJS was killing my video exports. So I rewrote the pipeline in Rust,3,0
+"The feed doesn't know you, and YouTube refuses to let you browse",54,40
+If I could make my own GitHub,133,155
+Simpson's Paradox,10,0
+Show HN: Drive any macOS app in the background without stealing the cursor,191,42
+I bought Friendster for $30k – Here's what I'm doing with it,1115,614
+How ChatGPT serves ads,508,361
+Wyoming celebrates 'nuclear Renaissance' as feds approve license for a reactor,33,4
+Show HN: Live Sun and Moon Dashboard with NASA Footage,223,68
+Show HN: A new benchmark for testing LLMs for deterministic outputs,59,29
+"ReactOS Introduces Unified Live/Install Media, New Storage Driver",6,2
+Who owns the code Claude Code wrote?,555,530
+"Kyoto cherry blossoms now bloom earlier than at any point in 1,200 years",379,125
+Canonical Under Attack,67,27
+Spirit Airlines canceled all flights and is going out of business,84,48
+Letting AI play my game – building an agentic test harness to help play-testing,135,36
+GPT-5.5,1580,1057
+The Science Behind Honey's Eternal Shelf Life (2013),68,31
+Artemis II fault tolerance,79,44
+The X-Files has made me nostalgic for a time I never experienced,210,222
+"Ubuntu servers taken offline by ""sustained, cross-border attack""",129,28
+Vera: a programming language designed for machines to write,111,95
+Good developers learn to program. Most courses teach a language,129,75
+DRAM Crunch: Lessons for System Design,66,4
+The Prompt API,279,144
+"In Kannauj, perfumers have been making monsoon-infused mitti attar for centuries",70,12
+Auto Polo,112,27
+"Mo RAM, Mo Problems (2025)",222,39
+Laws of UX,343,59
+"Show HN: Rocky – Rust SQL engine with branches, replay, column lineage",120,48
+Sourcefeed – a pop-up RSS service,34,9
+WASM is not quite a stack machine,182,45
+Tvheadend: Self-Hosted IPTV Server,40,12
+A grounded conceptual model for ownership types in Rust,56,2
+GCC 16 has been released,305,52
+Chasing a SharedKey signature mismatch: fix azurerm_storage_table_entity,15,6
+Screw You Realtek,19,1
+How we run iSCSI over the internet,44,28
+Pgrx: Build Postgres Extensions with Rust,203,16
+"SimpleX Channels, SimpleX Network Consortium and Community Crowdfunding",34,5
+Postgres's lateral joins allow for quite the good eDSL,92,23
+The Oscars just banned AI from winning acting and writing awards,75,58
+"CJIT: C, Just in Time",147,37
+HardenedBSD Is Now Officially on Radicle,160,34
+A Milestone in Formalization: The Sphere Packing Problem in Dimension 8,34,0
+Our agent found a bug with WireGuard in Google Kubernetes Engine,68,36
+"Meta faces New Mexico trial that could force change to Facebook, other platforms",29,0
+4TB of voice samples just stolen from 40k AI contractors at Mercor,598,226
+"Ask HN: Those building Swift apps without touching Xcode, what is your workflow?",15,8
+California man uses elaborate drone show to help delivery drivers find his house,6,0
+Compositing and Blending – Exploring the math and intuition behind blend modes,35,3
+Show HN: Agent-desktop – Native desktop automation CLI for AI agents,97,35
+Open source ballistic simulator with NASA SRTM terrain masking (Python/C#),12,3
+Music with lyrics interferes with cognitive tasks (2023),32,30
+"AI should elevate your thinking, not replace it",863,599
+"Universal patterns emerge across 22 languages, mapping how vocabularies evolve",35,3
+Scientists discover 27 potential new planets that orbit two stars,8,1
+HERMES.md in commit messages causes requests to route to extra usage billing,1249,532
+I Wrote Ultralearning. This Is What I'd Change Because of AI,6,0
+Maryland becomes first state to ban surveillance pricing in grocery stores,338,205
+How Semiconductors Were Made in America,51,35
+At Protocol: Building the Social Internet,92,41
+Hermit – uniform tooling for Linux and Mac,12,2
+Shoppers falsely identified by facial recognition system,7,0
+Improving ICU handovers by learning from Scuderia Ferrari F1 team,66,56
+"NodeMind – binary document index, 48× smaller than float32 RAG, no GPU required",4,0
+OpenX32: Open Linux kernel for Behringer X32 mixer,14,0
+"Honker – Durable queues, streams, pub/sub, and cron scheduler in a SQLite file",226,60
+GitHub Copilot is moving to usage-based billing,764,554
+Online age verification is the hill to die on,969,705
+The Abstraction Fallacy: Why AI can simulate but not instantiate consciousness,72,140
+"Deep under Antarctic ice, a long-predicted cosmic whisper breaks through",134,45
+Interview with Bob Odenkirk,177,135
+The Claude Delusion: Richard Dawkins believes his AI chatbot is conscious,75,124
+GitHub RCE Vulnerability: CVE-2026-3854 Breakdown,447,93
+Historic Tennessee hotel is also home to the greatest duck tradition (2016),33,4
+Show HN: Pu.sh – a full coding-agent harness in 400 lines of shell,90,27
+Mistral Medium 3.5,498,230
+Show HN: SimDrive – a browser racing game with your phone as the controller:D,21,9
+Physical buttons outperform touchscreens in new cars (2023),25,5
+Withnail's Coat and I,133,20
+Using a 1978 terminal in 2026 (DEC VT-100),46,17
+The Planet Is Dying but You've Got Work on Monday,10,1
+Amazon says restoring damaged Middle East cloud operations to take months,16,5
+"Oil tanker hijacked off Yemen, steers toward Somalia",58,91
+Create an MP4 video of a web page scrolling at a steady speed,38,17
+Show HN: OSS Agent I built topped the TerminalBench on Gemini-3-flash-preview,392,147
+Job Postings for Software Engineers Are Rapidly Rising,231,150
+An update on GitHub availability,419,250
+Gallium oxide electronics withstand extreme cold,88,13
+How People ask Claude for personal guidance,30,9
+Warm Burnout: editor and terminal color scheme,71,5
+Low-Compilation-Cost Register Allocation in LLVM-Based Binary Translation,71,4
+Why I still reach for Lisp and Scheme instead of Haskell,265,168
+America's Geothermal Breakthrough,171,171
+Spanish archaeologists discover trove of ancient shipwrecks in Bay of Gibraltar,128,38
+Japan is deploying ultra-cheap cardboard drones built for swarm warfare,17,3
+We need a federation of forges,595,397
+"How I leared what a decoupling capacitor is for, the hard way",172,88
+High Performance Git,267,82
+Show HN: Rip.so – a graveyard for dead internet things,184,120
+Is my blue your blue? (2024),691,468
+Amateur armed with ChatGPT solves an Erdős problem,796,560
+Warp is now open-source,371,118
+Scientists Create First-Ever 'Smell Map',7,0
+Three cruise ship passengers die in suspected hantavirus outbreak,9,1
+Regression: malware reminder on every read still causes subagent refusals,252,147
+"About St Helena, in the South Atlantic Ocean",3,0
+Your phone is about to stop being yours,1691,887
+Apple Says Mac Studio and Mac Mini Will Be in Short Supply for Months,128,129
+Show HN: My Private GitHub on Postgres,42,23
+“Why not just use Lean?”,303,209
+Making AI chatbots friendly leads to mistakes and support of conspiracy theories,93,80
+OpenAI models coming to Amazon Bedrock: Interview with OpenAI and AWS CEOs,326,114
+Localsend: An open-source cross-platform alternative to AirDrop,921,276
+Recreating the Smells of History,7,1
+Find color palettes perfected over 500 years of master painting,6,0
+Manual Until It Hurts,26,0
+Business Owners Are Worst Clients,56,53
+'Like science fiction': How a new wave of immunotherapy is eliminating cancers,12,1
+Patch applies fake diffs from commit messages,106,41
+Show HN: Winpodx – run Windows apps on Linux as native windows,98,48
+Simulacrum of Knowledge Work,211,83
+Mahjong: A Visual Guide,247,68
+FreeBSD Device Drivers Book,147,43
+Chernobyl wildlife forty years on,161,104
+Carrot Disclosure: Forgejo,145,57
+"Show HN: Auto-Architecture: Karpathy's Loop, pointed at a CPU",239,76
+How the legal opium market shaped global trade - and led to an opioid crisis,7,0
+NSA Warned Everyone to Reboot Their Routers,36,24
+China's Rare Defiance of US Sanctions Sparks Showdown over Banks,5,0
+Utah to hold websites liable for users who mask their location with VPNs,223,263
+Super ZSNES – GPU Powered SNES Emulator,337,116
+The text mode lie: why modern TUIs are a nightmare for accessibility,13,2
+Am I the only one who hates delivery robots?,65,73
+A playable DOOM MCP app,91,31
+Waymo in Portland,296,594
+Laguna XS.2 and M.1,101,50
+Apple accidentally left Claude.md files Apple Support app,382,320
+The Super Nintendo Cartridges (2024),174,29
+Men who stare at walls,719,336
+AISLE Discovers 38 CVEs in OpenEMR Healthcare Software,177,113
+"Facepunch launches s&box, the highly anticipated successor to Garry's Mod",24,6
+US special forces soldier arrested after allegedly winning $400k on Maduro raid,691,751
+"New 10 GbE USB adapters are cooler, smaller, cheaper",621,371
+Getting my daily news from a dot matrix printer 2024,117,23
+Show HN: I Built a Museum Exhibit,3,0
+How many e's are in the word seventeen [video] (AI hallucination),6,7
+When the cheap one is the cool one,171,117
+Fully Featured Audio DSP Firmware for the Raspberry Pi Pico,328,92
+Engineering tough blood clots for rapid haemostasis and enhanced regeneration,11,1
+Investors pile into clean energy as Iran war drives push for energy security,126,179
+Radar Laboratory – Interactive Radar Phenomenology,75,6
+Understanding the LLM Bubble,8,6
+Google and Pentagon reportedly agree on deal for 'any lawful' use of AI,316,282
+Anomaly detection of private jet flights,25,2
+Show HN: Clipmon is a macOS clipboard manager on steroids,5,6
+Voice Modems,73,16
+The Visible Zorker: Zork 1,149,38
+Asahi Linux Progress Linux 7.0,657,363
+Claude.ai unavailable and elevated errors on the API,297,252
+Self-updating screenshots,488,75
+Tell HN: An update from the new Tindie team,83,49
+A beginner's guide to Sourcehut (2025),60,17
+Hokusai and Tesselations,151,16
+Functional programmers need to take a look at Zig,192,155
+Training language models to be warm can reduce accuracy and increase sycophancy,4,0
+"OSM-FR Panoramax server ""only for testing if outside of France""",4,0
+GTFOBins,388,95
+Most Companies Aren't Anywhere Near Ready for AI,6,3
+The Rotary Un-Smartphone (2023),63,22
+I won a championship that doesn't exist,232,128
+"Dear friend, you have built a Kubernetes (2024)",143,174
+Vercel’s pricing page,191,65
+"Discret 11, the French TV encryption of the 80s (2020)",181,32
+Show HN: TRiP – a complete transformer engine in C built from scratch just by me,38,6
+Three men are facing charges in Toronto SMS Blaster arrests,201,126
+Hackers are actively exploiting a bug in cPanel and WHM,40,7
+Behavioral timescale synaptic plasticity rewires the brain after an experience,162,11
+US Supreme Court reviews police use of cell location data,257,158
+Apple CMF (Color-Matching Functions) 2026,90,9
+Using the internet like it's 1999,256,190
+Show HN: Utilyze – an open source GPU monitoring tool more accurate than nvtop,127,28
+Notes on a non-profit indicted for bank fraud,42,8

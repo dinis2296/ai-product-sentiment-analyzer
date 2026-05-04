@@ -7,7 +7,7 @@ import pandas as pd
 # Get top story IDs
 url = "https://hacker-news.firebaseio.com/v0/topstories.json"
 response = requests.get(url)
-story_ids = response.json()[:50]
+story_ids = response.json()[:500]
 
 posts = []
 
