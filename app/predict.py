@@ -3,10 +3,10 @@ import torch
 from model_utils import SimpleModel, encode, pad
 
 # Load saved artifacts
-vocab = torch.load("vocab.pt")
+vocab = torch.load("models/vocab.pt")
 
 model = SimpleModel(len(vocab) + 1, embed_dim=16)
-model.load_state_dict(torch.load("model.pt", map_location="cpu"))
+model.load_state_dict(torch.load("models/model.pt", map_location="cpu"))
 model.eval()
 
 
